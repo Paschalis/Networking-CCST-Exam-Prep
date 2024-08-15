@@ -348,6 +348,8 @@ ICMP is used for sending error messages and operational information about networ
 
 ### `ping`
 
+![Alt Text](Images/ping.png)
+
 The `ping` command checks the reachability of a host on a network and measures round-trip time.
 
 - **Basic Usage:**
